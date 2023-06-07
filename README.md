@@ -11,7 +11,7 @@ ReadMeGenerator
 - [Questions](#questions)
 
 ## Description
-undefined
+Created a README generator
 
 ## Installation
 No installation required
@@ -23,10 +23,10 @@ N/A
 No license selected
 
 ## Contributions
-Did 100% of the project
+Did 100% of the projec
 
 ## Tests
 Pass
 
 ## Questions
-if you have an questions/concerns contact via email through Github malabedredha
+if you have an questions/concerns contact via email through Github randomguy

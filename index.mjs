@@ -11,7 +11,7 @@ let {title, description, installation, usage, license, contributions, tests, que
   
   {
     type: "input",
-    name: "project_description",
+    name: "description",
     message: "Please describe your project: ",
   },
   
